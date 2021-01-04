@@ -4,7 +4,6 @@ import { ProductService } from './product-service';
 import { Observable } from 'rxjs';
 
 @Component({
-  selector: 'pm-products',
   templateUrl: './product-list.component.html',
   styleUrls: ['./product-list.component.css']
 })
